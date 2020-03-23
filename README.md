@@ -26,4 +26,19 @@ A list of great things made by the community for the game Stardew Valley
 - [Stardew Planner](https://stardew.info): Helps you to plan out your farm easily and make it possible to test different layouts with ease.
 - [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/): Checks a save file for various achievements and milestones and lets you know what is missing. ([Repo](https://github.com/MouseyPounds/stardew-checkup))
 - [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/): Simulates the random number generator used in Stardew Valley and makes "predictions" about the game after reading the save file. The information predicted includes special mine levels (e.g. mushroom floor & infestations), random items sold by some vendors, results from cracking geodes, the train schedule, and more. ([Repo](https://github.com/MouseyPounds/stardew-predictor))
+- [Stardew-Valley-Bundle-Checklist](https://github.com/elias123tre/Stardew-Valley-Bundle-Checklist): A userscript to add checkboxes to Stardew Valley wiki bundle page
+- [StardewValleyFairHelper](https://github.com/stefanlawr/stardew-valley-fair-helper): A Stardew Valley Fair Grange Display Helper.
+- [ts-dewcheck](https://github.com/BolZer/ts-dewcheck): A Stardew Valley community center checklist tool.
+- [Stardew Bundle Checkboxes](https://chrome.google.com/webstore/detail/stardew-bundle-checkboxes/hpghlbmbdhafikclpcdbeaipnnnhiefg): (For Chrome)([Repo](https://github.com/FrankSalmick/Stardew-Bundle-Checkboxes))
+- [Stardew Valley Helper](https://github.com/Pan-Bubr/stardew-valley-helper): Creates a Web Application tool for the players of Stardew Valley that will help them keep track of the various dynamic events in the game.
+- [Stardew Valley Maximization](https://faraixyz.github.io/stardew-valley-maximization/): Find the most profitable farm you can make in Stardew Valley. ([Repo](https://github.com/faraixyz/stardew-valley-maximization))
+- [Stardew Valley Checklist](https://wtoldt.github.io/stardew-valley-checklist/): A simple app for keeping track of community center bundle completion status. ([Repo](https://github.com/wtoldt/stardew-valley-checklist))
+- [Stardew Valley Assistant](https://neptunianeclipse.github.io/stardew-valley-assistant/): The aim of Stardew Valley assistant is to be a useful companion tool for players of Stardew Valley. ([Repo](https://github.com/NeptunianEclipse/stardew-valley-assistant))
+- [](): 
+- [](): 
+- [](): 
+- []():
+- []():
+- [](): 
+- [](): 
 - [](): 
