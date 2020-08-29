@@ -34,7 +34,7 @@ A list of great things made by the community for the game Stardew Valley
 - [Stardew Valley Maximization](https://faraixyz.github.io/stardew-valley-maximization/): Find the most profitable farm you can make in Stardew Valley. ([Repo](https://github.com/faraixyz/stardew-valley-maximization))
 - [Stardew Valley Checklist](https://wtoldt.github.io/stardew-valley-checklist/): A simple app for keeping track of community center bundle completion status. ([Repo](https://github.com/wtoldt/stardew-valley-checklist))
 - [Stardew Valley Assistant](https://neptunianeclipse.github.io/stardew-valley-assistant/): The aim of Stardew Valley assistant is to be a useful companion tool for players of Stardew Valley. ([Repo](https://github.com/NeptunianEclipse/stardew-valley-assistant))
-- [](): 
+- [Stardew Valley Recipes](https://github.com/vlvagerviwager/stardew-valley-recipes): Checklists of all Stardew Valley recipes, in various formats. Easy to copy and paste into text editors, etc. ([Repo](https://github.com/vlvagerviwager/stardew-valley-recipes)) 
 - [](): 
 - [](): 
 - []():
