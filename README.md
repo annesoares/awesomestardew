@@ -2,6 +2,7 @@
 A list of great things made by the community for the game Stardew Valley
 
 ---
+- [Stardew Valley Planner](https://www.stardewvalleywiki.net/): A source-checked fan wiki with crop profit, perfection, bundle, fish, gift, and furniture planning tools.
 - [Upload.farm](https://upload.farm/): Stardew Valley Summary Generator ([Repo](https://github.com/Sketchy502/SDV-Summary))
 - [Stardew Helpers](https://stardew.djomp.co.uk/): Villager Calendar, Artifact Finder, Forage Finder ([Repo](https://github.com/rickselby/stardew-helpers))
 - [Crop Planner](http://exnil.github.io/crop_planner/): A tool for planning crop schedules. ([Repo](https://github.com/exnil/crop_planner))
